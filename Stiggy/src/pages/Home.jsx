@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <div className="text-center mt-5">
-      <h1 className="display-4 text-danger">Welcome to Foodie! 🍔</h1>
+      <h1 className="display-4 text-danger">Welcome to Stiggy! 🍔</h1>
       <p className="lead">
         Order delicious meals from your favorite restaurants, delivered fast!
       </p>

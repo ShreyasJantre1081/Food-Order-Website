@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-danger">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          🍕 Foodie
+          🍕 Stiggy
         </Link>
         <button
           className="navbar-toggler"
